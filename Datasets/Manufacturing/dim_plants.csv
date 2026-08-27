@@ -1,0 +1,6 @@
+plant_id,plant_name,location_city,location_country,established_date,capacity_mwh
+1,Detroit Engine Plant,Detroit,USA,2012-05-15,12000
+2,Munich Electronics,Munich,Germany,2015-08-20,8000
+3,Tokyo Assembly,Tokyo,Japan,2018-03-10,15000
+4,Shanghai Battery Gigafactory,Shanghai,China,2020-11-01,20000
+5,Monterrey Stamping,Monterrey,Mexico,2021-06-22,10000

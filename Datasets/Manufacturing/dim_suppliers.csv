@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_rating,country
+1,Apex Lithium Corp,5,Chile
+2,Nippon Steel,4,Japan
+3,Silicon Valley Semiconductors,,USA
+4,Bosch Electronics,4,Germany
+5,Shanghai Copper & Wire,3,China
+6,Bavarian Precision Parts,,Germany
+7,MexiStamping S.A.,3,Mexico
+8,Global Packaging Logistics,3,Canada

@@ -1,0 +1,13 @@
+material_id,material_name,unit_of_measure,standard_cost
+1,Lithium-Ion Cells,units,1.5
+2,High-Strength Steel Sheets,kg,2.8
+3,Copper Wire Spool,meters,5.5
+4,Semiconductor Chips,,12.5
+5,Fiberglass Rolls,kg,
+6,Aluminum Castings,units,45
+7,Electrical Connectors,units,0.75
+8,Microcontrollers,units,8.2
+9,Hydraulic Cylinders,units,120
+10,Temperature Sensors,units,
+11,Power Transistors,,1.8
+12,Polycarbonate Shells,units,4.5

@@ -1,0 +1,11 @@
+product_id,product_name,product_category,unit_cost,target_price,weight_kg
+1,EV Battery Pack,Automotive,4500,6500,320
+2,Solar Inverter,Renewable Energy,800,1200,45
+3,Wind Turbine Blade,Renewable Energy,18000,25000,1200
+4,Electric Motor 150kW,Automotive,1200,1800,85
+5,Aerospace Wiring Harness,Aerospace,350,750,12
+6,Avionics Controller,Aerospace,2500,4000,8.5
+7,Industrial Robot Arm,Automation,15000,22000,250
+8,Programmable Logic Controller (PLC),Automation,150,300,1.2
+9,Smart Thermostat,Consumer Electronics,45,120,0.4
+10,Home Energy Storage Wall,Renewable Energy,2200,3500,115
